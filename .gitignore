@@ -3,7 +3,10 @@ venv3/
 
 *.key
 *.log
+
 config/app.ini
+config/elastic
+config/logstash
 
 # VSCode
 settings.json
