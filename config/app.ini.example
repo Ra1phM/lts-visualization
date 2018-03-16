@@ -1,0 +1,11 @@
+
+[open.data.lu]
+url: https://data.public.lu/api/1/
+apiKey: MY_API_KEY
+
+[bike.api]
+url: https://api.jcdecaux.com/vls/v1/
+apiKey: MY_API_KEY
+
+[bus.api]
+url: http://travelplanner.mobiliteit.lu/restproxy/departureBoard

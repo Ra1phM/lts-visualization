@@ -1,0 +1,17 @@
+venv3/
+*.pyc
+
+*.key
+*.log
+config/app.ini
+
+# VSCode
+settings.json
+
+# Contains third party software
+software/
+deployment/
+backup/
+
+# Data
+data/
